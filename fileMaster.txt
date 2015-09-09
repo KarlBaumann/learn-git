@@ -1,7 +1,11 @@
 
 masterTest
 
+<<<<<<< HEAD
 
 
 
 firstTestAdded
+=======
+secondTestAdded
+>>>>>>> SecondBranch
